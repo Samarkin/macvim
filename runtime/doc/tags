@@ -246,6 +246,8 @@ $VIMRUNTIME	starting.txt	/*$VIMRUNTIME*
 'fileignorecase'	options.txt	/*'fileignorecase'*
 'filetype'	options.txt	/*'filetype'*
 'fillchars'	options.txt	/*'fillchars'*
+'fixendofline'	options.txt	/*'fixendofline'*
+'fixeol'	options.txt	/*'fixeol'*
 'fk'	options.txt	/*'fk'*
 'fkmap'	options.txt	/*'fkmap'*
 'fl'	vi_diff.txt	/*'fl'*
@@ -544,6 +546,8 @@ $VIMRUNTIME	starting.txt	/*$VIMRUNTIME*
 'nofen'	options.txt	/*'nofen'*
 'nofic'	options.txt	/*'nofic'*
 'nofileignorecase'	options.txt	/*'nofileignorecase'*
+'nofixendofline'	options.txt	/*'nofixendofline'*
+'nofixeol'	options.txt	/*'nofixeol'*
 'nofk'	options.txt	/*'nofk'*
 'nofkmap'	options.txt	/*'nofkmap'*
 'nofoldenable'	options.txt	/*'nofoldenable'*
@@ -613,8 +617,6 @@ $VIMRUNTIME	starting.txt	/*$VIMRUNTIME*
 'noreadonly'	options.txt	/*'noreadonly'*
 'norelativenumber'	options.txt	/*'norelativenumber'*
 'noremap'	options.txt	/*'noremap'*
-'noreol'	options.txt	/*'noreol'*
-'norespecteol'	options.txt	/*'norespecteol'*
 'norestorescreen'	options.txt	/*'norestorescreen'*
 'norevins'	options.txt	/*'norevins'*
 'nori'	options.txt	/*'nori'*
@@ -770,9 +772,7 @@ $VIMRUNTIME	starting.txt	/*$VIMRUNTIME*
 'regexpengine'	options.txt	/*'regexpengine'*
 'relativenumber'	options.txt	/*'relativenumber'*
 'remap'	options.txt	/*'remap'*
-'reol'	options.txt	/*'reol'*
 'report'	options.txt	/*'report'*
-'respecteol'	options.txt	/*'respecteol'*
 'restorescreen'	options.txt	/*'restorescreen'*
 'revins'	options.txt	/*'revins'*
 'ri'	options.txt	/*'ri'*
